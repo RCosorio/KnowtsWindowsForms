@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="knowts_in_wf_alpha.MainMenu">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IMAgIAAQiKYUCBQAIACABAAKEIgAAAAgCgACAYJAAQI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.FeedbackForm">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAFAQAACAAAADAAEAAAEAAAAAAUDAAAI=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.AddNote">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAACAAABQIABGABIgDIIAAABBgAQASASAAAgA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.ViewUpdateNote">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAARAQAACQQKgCAAAAgABAAAAQARAAAQQ=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.Search">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAKIgBBAAAACABAACAAEAAgAgAAIAAAAAQAI=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.LogInPage">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAECAEABBAAACABAAKICgAgAAAAAAAAwBAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.SignUpPage">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAABVAAACAAEACIIAIAAAgAEACAQBAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.Settings">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgCAUAACAAABQAAwCAAAACAIAIAAQAAGACAQRAAAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.ChangePassword">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAABkAAACACEACAAAAAAAAgAAAAQBAAAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.UserAnalytics">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0BAQAQAECSAgBAAFACAAIACACAAAAAAAAAAAwCQgAA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knowts_in_wf_alpha.PublicAnalytics">
+    <Position X="19.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAECSAABAAAACAAAASACEAAAAAAAAAAQDAAAA=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
